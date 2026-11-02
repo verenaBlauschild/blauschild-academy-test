@@ -1,0 +1,19 @@
+﻿id;title;date;startDate;duration;format;cat;time;deadline;referent;prereq;description;qualification;validity;price_blauschild;price_sag;price_nonmember;currency;taxLabel;publicVisible;publicRegistration;availablePlaces;capacity;registrationStatus;courseLanguage;flyerUrl;status;places;pdf
+hv1;HV1 – Grundkurs (EVAL 1);25.01.2027;2027-01-25;3 h;Online;HV;09.00–12.00 Uhr;11.01.2027;EVALUS;Keine Voraussetzung für die Teilnahme.;"Diese Ausbildung eignet sich für Personen, die an elektrisch angetriebenen Fahrzeugen folgende Arbeiten durchführen wollen:
+• Nicht-elektrotechnische Arbeiten, z. B. Reifen- und Scheibentausch, Karosseriearbeiten oder Arbeiten am konventionellen 12-V-Bordnetz
+• Keine Arbeiten am HV-System
+
+EVAL-CARD: Die EVAL-Karte ist ein globaler Ausbildungsnachweis. Jeder Teilnehmer erhält eine EVAL-Karte und kostenlosen Zugang zu www.evalcard.com mit Schulungsunterlagen, Zertifikat, Fahrzeuginformationen und Prüfberichten. EVAL steht für Electric Vehicle Access License.";EVAL 1 / HV1;laut Ausbildungsnachweis;120;130;175;EUR;+ MwSt.;SI;SI;;;open;de;2027%20HV1.pdf;Anmeldung offen;;grund
+hv2a;HV2 – Auffrischungskurs (EVAL 2);01.02.2027;2027-02-01;3 h;Online;HV;09.00–12.00 Uhr (online);15.01.2027;EVALUS;Bereits erworbene Kenntnisse auf EVAL-2-Niveau.;Der Online-Kurs dient der gezielten Auffrischung und Aktualisierung bereits erworbener Kenntnisse auf EVAL-2-Niveau.;EVAL 2 / HV2 verlängert;3 Jahre;120;130;175;EUR;+ MwSt.;SI;SI;;;open;de;2027%20HV%20Auffrichungskurse.pdf;Anmeldung offen;;refresh
+hv2;HV2 – Grundkurs (EVAL 2);16.–17.02.2027;2027-02-16;2 Tage;Präsenz;HV;09.00–16.00 Uhr;29.01.2027;EVALUS;"Technische oder elektrotechnische Ausbildung empfohlen; Grundlagenkenntnisse Elektrotechnik werden im Zuge der Ausbildung überprüft.";"Diese Ausbildung eignet sich für Personen, die an elektrisch angetriebenen Fahrzeugen folgende Arbeiten durchführen wollen:
+• Das HV-System spannungsfrei schalten
+• HV-Komponenten austauschen
+• Diese Ausbildung deckt EVAL-1 mit ab
+
+EVAL-CARD: Die EVAL-Karte ist ein globaler Ausbildungsnachweis. Jeder Teilnehmer erhält eine EVAL-Karte und kostenlosen Zugang zu www.evalcard.com mit Schulungsunterlagen, Zertifikat, Fahrzeuginformationen und Prüfberichten. EVAL steht für Electric Vehicle Access License.";EVAL 2 / HV2;3 Jahre;370;420;440;EUR;+ MwSt.;SI;SI;;;open;de;2027%20HV2.pdf;Wenige Plätze;;grund
+hv3;HV3 – Grundkurs (EVAL 3);27.–29.04.2027;2027-04-27;3 Tage;Präsenz;HV;09.00–16.00 Uhr;02.04.2027;EVALUS;"Absolvierung der HV2-Stufe; der Teilnehmer muss im Besitz einer EVAL-2-Karte sein.";"Diese Ausbildung eignet sich für Personen, die an elektrisch angetriebenen Fahrzeugen folgende Arbeiten durchführen wollen:
+• Arbeiten unter Spannung am HV-Energiespeicher
+• EVAL-2-Nachweis als Voraussetzung zur Teilnahme
+
+EVAL-CARD: Die EVAL-Karte ist ein globaler Ausbildungsnachweis. Jeder Teilnehmer erhält eine EVAL-Karte und kostenlosen Zugang zu www.evalcard.com mit Schulungsunterlagen, Zertifikat, Fahrzeuginformationen und Prüfberichten. EVAL steht für Electric Vehicle Access License.";EVAL 3 / HV3;3 Jahre;460;510;570;EUR;+ MwSt.;SI;SI;;;open;de;2027%20HV3.pdf;Anmeldung offen;;grund
+hv3a;HV3 – Auffrischungskurs (EVAL 3);30.04.2027;2027-04-30;1 Tag;Präsenz;HV;09.00–16.00 Uhr;02.04.2027;EVALUS;Bereits erworbene EVAL-3-/HV3-Qualifikation.;Der Präsenzkurs wiederholt und vertieft die wesentlichen Inhalte der EVAL-3-Ausbildung und unterstützt die sichere Anwendung im Werkstattalltag.;EVAL 3 / HV3 verlängert;3 Jahre;210;230;295;EUR;+ MwSt.;SI;SI;;;open;de;2027%20HV%20Auffrichungskurse.pdf;Warteliste;;refresh
