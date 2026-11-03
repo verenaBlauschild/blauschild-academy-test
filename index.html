@@ -206,7 +206,7 @@ const data=config.mode==='demo'?await loadAcademyCsv():await request('/v1/academ
      extra.appendChild(link);
    }
    const btn=form.querySelector('button[type="submit"]');
-   if(!enabled){btn.disabled=true;return;}
+   if(!enabled){btn.disabled=true;} // TEST: show Turnstile without enabling registration
    // Only active after explicit approval of privacy, terms and verified Resend domain.
    btn.disabled=false;btn.textContent='Absenden / Invia';
    const slot=form.querySelector('#academy-turnstile');slot.hidden=false;
@@ -216,7 +216,7 @@ const data=config.mode==='demo'?await loadAcademyCsv():await request('/v1/academ
      if(!form.isConnected||!window.turnstile)return;
      try{
        widgetId=window.turnstile.render(slot,{sitekey:cfg.turnstileSiteKey});
-       btn.disabled=false;btn.textContent='Absenden / Invia';
+       btn.disabled=!enabled;btn.textContent=enabled?'Absenden / Invia':'TEST – Invio disattivato';
      }catch(error){
        console.error('Academy Turnstile initialization failed:',error);
        btn.textContent='Sicherheitsprüfung nicht verfügbar / Verifica non disponibile';
